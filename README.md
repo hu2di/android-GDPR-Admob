@@ -1,6 +1,8 @@
 ### GDPR-Admob-example
 
-Android Java project tries to use Admob consent library
+Android Java project tries to use Admob ump consent library
+
+![Screenshot](./Screenshot.png)
 
 ### About
 
